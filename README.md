@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adamresearches
+- 👋 Hi, I’m @Adam
 - 👀 I’m interested in Ml and LLM.
 - 🌱 I’m currently learning about LLM and AI.
 - 💞️ I’m looking to collaborate on anything that will put us a step further....
