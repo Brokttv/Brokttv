@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brokttv
+- 👋 Hi, I’m @Adamresearches
 - 👀 I’m interested in Ml and LLM.
 - 🌱 I’m currently learning about LLM and AI.
 - 💞️ I’m looking to collaborate on anything that will put us a step further....
